@@ -2,6 +2,9 @@
   🚀 Apollo Solutions - TI
 </h1>
 
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGx5OWZpOXJrcmI0c2l4aXNqaHVkMXU5OTB6NnJpZWMyY2hvb2hwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ROvT19V4hygmI/giphy.gif" width="320" alt="Robotic Arm"/>
+</p>
 
 <h3 align="center">
   Inovação prática. Tecnologia com propósito.
