@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="250" alt="Robotic Arm Animation"/>
+  <img src="https://media.giphy.com/media/zJ7mQvVbN1kzJb6FMu/giphy.gif" width="320" alt="Robotic Arm"/>
 </p>
 
 <h3 align="center">
