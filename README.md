@@ -50,8 +50,8 @@ A **Apollo Solutions - TI** desenvolve soluções inteligentes em **Robótica e 
 ## 📫 Entre em contato
 
 - ✉️ Email: **apollo.tisolutions@gmail.com**
-- 🌐 Instagram: [@apollo.tisolutions](https://instagram.com/apollo.tisolutions)
-- 🔗 LinkedIn: [Apollo Solutions - TI](https://www.linkedin.com/apollo-solutions-ti)
+- 🌐 Instagram: [@apollo.tisolutions](https://www.instagram.com/ap0110.ti/)
+- 🔗 LinkedIn: [Apollo Solutions - TI](https://www.linkedin.com/company/apollo-solutions-ti)
 
 ---
 
