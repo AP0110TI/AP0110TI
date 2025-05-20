@@ -1,5 +1,5 @@
 <h1 align="center">
-  🚀 Apollo Solutions - TI
+   Apollo Solutions - TI
 </h1>
 
 <p align="center">
